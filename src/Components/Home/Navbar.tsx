@@ -1,8 +1,12 @@
-import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div className="f">
+        <div className="flex flex-row items-center justify-between h-24 bg-gradient-to-r from-[#ff0080] to-[#ff8c00] text-white px-[10%]">
+            <h1>K-PLAYLIST</h1>
+            <h3>created by: <a rel="noopener" target="_blank" href="https://github.com/Torigami2005">Torigami2005</a> and <a rel="noopener"  target="_blank" href="https://github.com/Kurev">Kurev</a> </h3>
+        </div>
+    </div>
   )
 }
 
