@@ -9,6 +9,7 @@ function Home() {
     
     <Navbar />
     <Container/>
+  
     {/* <Body /> */}
     </>
   )
